@@ -9,3 +9,8 @@ par l'intermédiaire des EN-TÊTES.
 
 ### Encapsulation
 ![image](https://user-images.githubusercontent.com/83721477/193523187-d003504a-69eb-4c0b-83b5-8e33b2851621.png)
+
+### PDU (Modèle OSI)
+
+![image](https://user-images.githubusercontent.com/83721477/193523637-556dd7b7-8bb3-4ac0-8129-af8d9c423c2a.png)
+
