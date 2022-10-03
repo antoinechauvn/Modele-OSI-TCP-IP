@@ -1,1 +1,11 @@
-test
+![image](https://user-images.githubusercontent.com/83721477/193522620-c422aba3-ba33-4cc9-b552-8ad78e2c820c.png)
+On dit deux machines sont en liaison point-à-point
+quand elles sont directement reliées par une ligne de transmission,
+sans l'intermédiaire d'autres machines.
+
+Les logiciels de même niveau OSI des deux machines DIALOGUENT
+en se passant des CODES convenus conformes à un certain PROTOCOLE
+par l'intermédiaire des EN-TÊTES.
+
+### Encapsulation
+![image](https://user-images.githubusercontent.com/83721477/193523187-d003504a-69eb-4c0b-83b5-8e33b2851621.png)
