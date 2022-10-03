@@ -33,3 +33,11 @@ certaines ne transportent pas les "données" de la couche supérieure,<br>
 mais des paramètres, des demandes, des réponses ou des acquittements lors d'un dialogue entre couches;<br>
 N'assimilons donc pas tout-à-fait PDU et DONNÉES.<br>
 PDU est un concept plus général.<br>
+
+#### Traitement d'un PDU lors d'une transmission
+
+![image](https://user-images.githubusercontent.com/83721477/193533984-9464d498-118c-49e8-926e-8c2967a68b32.png)
+
+#### Traitement d'un PDU lors d'une réception
+
+![image](https://user-images.githubusercontent.com/83721477/193534025-f3a90cd0-75b1-468d-a3a9-f8878225e911.png)
