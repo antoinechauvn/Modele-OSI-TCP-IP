@@ -13,6 +13,8 @@ par l'intermédiaire des EN-TÊTES.
 
 ### PDU (Modèle OSI)
 
+![image](https://user-images.githubusercontent.com/83721477/193533149-d7fbf0ad-a9c2-4929-99ea-8fa75e90b5d7.png)
+
 PDU = unité de transmission de chaque niveau. <br>
 
 Appliqué au système de couches du modèle OSI, le PDU :
