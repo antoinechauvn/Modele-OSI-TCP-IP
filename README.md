@@ -14,6 +14,9 @@ par l'intermédiaire des EN-TÊTES.
 ### PCI
 PCI = ensemble de l'EN-TÊTE (et, s'il y en a un, du champ CONTROLE)
 
+![image](https://user-images.githubusercontent.com/83721477/193535006-78264998-bae9-4635-9633-e651d6cdf704.png)
+
+
 ### PDU (Modèle OSI)
 
 ![image](https://user-images.githubusercontent.com/83721477/193533149-d7fbf0ad-a9c2-4929-99ea-8fa75e90b5d7.png)
