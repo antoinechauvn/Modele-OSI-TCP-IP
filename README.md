@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/83721477/193522620-c422aba3-ba33-4cc9-b552-8ad78e2c820c.png)
 
+## Modèle TCP/IP
 On dit deux machines sont en liaison point-à-point
 quand elles sont directement reliées par une ligne de transmission,
 sans l'intermédiaire d'autres machines.
