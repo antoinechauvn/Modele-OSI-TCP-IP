@@ -11,6 +11,9 @@ par l'intermédiaire des EN-TÊTES.
 ### Encapsulation
 ![image](https://user-images.githubusercontent.com/83721477/193523187-d003504a-69eb-4c0b-83b5-8e33b2851621.png)
 
+### PCI
+PCI = ensemble de l'EN-TÊTE (et, s'il y en a un, du champ CONTROLE)
+
 ### PDU (Modèle OSI)
 
 ![image](https://user-images.githubusercontent.com/83721477/193533149-d7fbf0ad-a9c2-4929-99ea-8fa75e90b5d7.png)
