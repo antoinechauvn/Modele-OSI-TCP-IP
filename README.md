@@ -13,6 +13,16 @@ par l'intermédiaire des EN-TÊTES.
 
 ### PDU (Modèle OSI)
 
+PDU = unité de transmission de chaque niveau. <br>
+
+Appliqué au système de couches du modèle OSI, le PDU :
+
+* de la couche physique est le bit ;
+* de la couche liaison est la trame ;
+* de la couche réseau est le paquet ;
+* de la couche transport est le segment pour TCP, et le datagramme pour UDP ;
+* des couches application, présentation et session sont les données.
+
 ![image](https://user-images.githubusercontent.com/83721477/193523637-556dd7b7-8bb3-4ac0-8129-af8d9c423c2a.png)
 
 **Attention !**<br>
