@@ -9,6 +9,10 @@
 ### Encapsulation
 ![image](https://user-images.githubusercontent.com/83721477/193523187-d003504a-69eb-4c0b-83b5-8e33b2851621.png)
 
+### SDU
+
+SDU = PDU de la couche précédente (PDU - 1)
+
 ### PCI
 PCI = ensemble de l'EN-TÊTE (et, s'il y en a un, du champ CONTROLE)
 
